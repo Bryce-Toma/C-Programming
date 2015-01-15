@@ -1,5 +1,5 @@
 These files are for back-up and personal use only.
-I wan to learn how to program in C language.
+I want to learn how to program in C language.
 Since it is on pubic display, feel free to use them if you find them in any benefit.
 
 I have no intention of claiming the material in this repository 100% mine, as they were adapted from CRussman's 
