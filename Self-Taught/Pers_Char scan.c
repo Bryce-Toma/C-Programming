@@ -14,15 +14,15 @@ int main()
     int num1, num2;
     int sum;
 
-    int answer; //whether you like to add something
-
+    char answer; //whether you like to add something
 
     printf("Would you like to add something?\n");
-    printf("1 - yes\n");
-    printf("2 - no\n");
-    scanf("%d", &answer);
+    printf("y - yes\n");
+    printf("n - no\n");
+    scanf("%c", &answer);
 
-    while (answer == 1 ) // No semicolon after if statement
+    while (answer == 'y' ) // No semicolon after if statement
+                            // Need single quotes(') around letter of interest
     {
         printf("Enter a number: ");
         scanf("%d", &num1);
@@ -41,6 +41,9 @@ int main()
         scanf("%d", &answer);
 
     }
-
+        else
+        {
         printf("Exiting...\n");
+        }
+       return 0;
 }
