@@ -10,5 +10,5 @@ His youtube account can be found here:
 
 https://www.youtube.com/channel/UCaSCt8s_4nfkRglWCvNSDrg
 
-
+***Adapted from CRussman's C Programming Youtube Video Tutorials***
 
